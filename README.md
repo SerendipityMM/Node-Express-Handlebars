@@ -45,3 +45,20 @@ The application is deployed on Heroku.
     ├── index.handlebars
     └── layouts
         └── main.handlebars
+
+
+## Layout 
+![Screen Shot 2020-05-08 at 5 39 31 PM](https://user-images.githubusercontent.com/55516592/81457495-8a7d4500-9153-11ea-8ba4-1cb30bc60fc7.png)
+![Screen Shot 2020-05-08 at 5 40 34 PM](https://user-images.githubusercontent.com/55516592/81457497-8cdf9f00-9153-11ea-87dd-b563d6be3669.png)
+
+
+
+## Note 
+Working on Heroku Issue : Application Error heroku logs --tail
+
+
+
+## Start the app on you own local machine
+npm install 
+
+node server.js
