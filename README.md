@@ -12,40 +12,7 @@ The application is deployed on Heroku.
 
 
 ## Directory Structure 
-
-├── config
-│   ├── connection.js
-│   └── orm.js
-│ 
-├── controllers
-│   └── burgers_controller.js
-│
-├── db
-│   ├── schema.sql
-│   └── seeds.sql
-│
-├── models
-│   └── burger.js
-│ 
-├── node_modules
-│ 
-├── package.json
-│
-├── public
-│   └── assets
-│       ├── css
-│       │   └── burger_style.css
-│       └── img
-│           └── burger.png
-│   
-│
-├── server.js
-│
-└── views
-    ├── index.handlebars
-    └── layouts
-        └── main.handlebars
-
+![Screen Shot 2020-05-08 at 5 49 01 PM](https://user-images.githubusercontent.com/55516592/81457686-5fdfbc00-9154-11ea-8f3a-af3b7a757495.png)
 
 ## Layout 
 ![Screen Shot 2020-05-08 at 5 39 31 PM](https://user-images.githubusercontent.com/55516592/81457495-8a7d4500-9153-11ea-8ba4-1cb30bc60fc7.png)
